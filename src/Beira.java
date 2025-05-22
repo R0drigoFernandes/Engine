@@ -1,6 +1,6 @@
 import java.awt.Graphics;
 import java.awt.Rectangle;
-import java.awt.Color;
+
 
 public class Beira extends Rectangle{
 	public Beira(int x, int y) {

@@ -1,6 +1,6 @@
 import java.awt.Graphics;
 import java.awt.Rectangle;
-import java.awt.Color;
+
 
 public class Piso extends Rectangle{
 	public Piso(int x, int y) {
